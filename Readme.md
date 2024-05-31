@@ -1,6 +1,6 @@
 Sure, here's an updated version of the `README.md` file with an added explanation about the project:
 
-```markdown
+
 # Anomaly Detection in Time Series Data
 
 This project demonstrates various methods for detecting anomalies in time series data using the `adtk` library. The project analyzes historical temperature data and financial data of Tesla's stock price to identify anomalies.
